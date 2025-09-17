@@ -1,6 +1,7 @@
 -git add
 -git commit -m "feat: "
 -git push
+-git reset
 
 branch
-pr=pull 
+PR=pull
