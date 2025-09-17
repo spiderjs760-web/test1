@@ -1,0 +1,17 @@
+-test1 https://github.com/spiderjs760-web/test1.git
+-slack https://github.com/spiderjs760-web/slack.git
+
+-git clone
+
+-git config user.name
+-git config user.email
+
+-git add
+-git commit -m "feat: "
+-git push
+
+-git log
+-git reset
+
+branch
+PR=pull

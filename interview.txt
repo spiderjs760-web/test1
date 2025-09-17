@@ -1,0 +1,17 @@
+Next 
+
+I'am kevin today i am here to talk to about my go to tools for building robust and performant web application
+This is Next.js
+
+as a frontend entusiast i' ve found Next.js to be a game-changer in simplfying the process of building modern web applications with React.
+Next.js is a framwork that builds on top of React and providing structure appproach to development while offering powerful features out of the box
+One of the student features is server side rendering and static side generation 
+
+this is capability that enables me to enhance the performance and SEO of my applications by pre-rendering on the server or at build time deliverign a faster and more efficient user experience
+
+Rooting in Next.js is intuitive and make it easy to craete dynamic roots and nested pages
+
+the filesystem based rooting system simplfies project organization and contributes to a clean and scalable codebase
+
+i've leveraged api roots in next .js to build serverless funcitions to seamlessly integrated into my applications
+
