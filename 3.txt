@@ -4,4 +4,9 @@
 -git reset
 
 branch
-PR=pull
+PR=pull Request
+
+$git branch "branch name"
+git rebase 
+git checkout 
+git reset
